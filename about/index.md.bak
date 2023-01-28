@@ -1,0 +1,41 @@
+---
+title: 关于
+date: 2023-1-8 13:32:00
+type: "about"
+---
+### 运行时间
+<!-- 网站运行时间的设置 -->
+<span id="timeDate">载入天数...</span>
+<span id="times">载入时分秒...</span>
+<script>
+    var now = new Date();
+    function createtime() {
+        var grt= new Date("10/01/2022 13:14:21");
+        now.setTime(now.getTime()+250);
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}
+        document.getElementById("timeDate").innerHTML = "本站已运行 "+dnum+" 天 ";
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
+    }
+setInterval("createtime()",250);
+</script>
+### 网站信息
+域名：kunbaiyun.github.io
+本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议
+### 技术支持
+框架：Hexo 6.3.0
+主题:：Butterfly
+源码仓库：Github
+托管与部署：Github Pages
+图床：御尊科技ZSV工作室  imgloc
+图片：搜图神器(酷安开发者：天是一般蓝)
+句子API：一言Hitokoto
+音乐：Hexo-tag-aplayer  网易云音乐
+视频：bilibili
+开发语言：HTML5  CSS3  JavaScript  Pug  YML
+不要问我为什么不买个二级域名，因为我没钱
+
