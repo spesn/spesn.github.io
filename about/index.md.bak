@@ -3,6 +3,9 @@ title: 关于
 date: 2023-1-8 13:32:00
 type: "about"
 ---
+### 网站信息
+域名：kunbaiyun.github.io
+本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议
 ### 运行时间
 <!-- 网站运行时间的设置 -->
 <span id="timeDate">载入天数...</span>
@@ -23,9 +26,6 @@ type: "about"
     }
 setInterval("createtime()",250);
 </script>
-### 网站信息
-域名：kunbaiyun.github.io
-本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议
 ### 技术支持
 框架：Hexo 6.3.0
 主题:：Butterfly
