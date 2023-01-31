@@ -1,9 +1,0 @@
----
-title: 文章统计
-date: 2023-01-31 09:08:00
-type: "statistics"
-top_img: false
----
-<div id="posts-calendar" class="js-pjax"></div>
-<div id="posts-chart" class="js-pjax"></div>
-<div id="categories-chart" class="js-pjax"></div>
