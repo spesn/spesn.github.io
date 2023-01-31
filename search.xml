@@ -4,6 +4,32 @@
   
     
     <entry>
+      <title>nyanners</title>
+      <link href="/2023/01/30/nyanners/"/>
+      <url>/2023/01/30/nyanners/</url>
+      
+        <content type="html"><![CDATA[<p>似曾相识，病态的互联网，都是造成每个不愿意社交的人继续弱化自己对社会的渴求<br><img src="/images/nyanners/1.png" alt=""><br><img src="/images/nyanners/2.png" alt=""><br><img src="/images/nyanners/3.png" alt=""><br><img src="/images/nyanners/4.png" alt=""><br><img src="/images/nyanners/5.png" alt=""><br><img src="/images/nyanners/6.png" alt=""><br><img src="/images/nyanners/7.png" alt=""><br><img src="/images/nyanners/8.png" alt=""><br><img src="/images/nyanners/9.png" alt=""><br><img src="/images/nyanners/10.png" alt=""><br><img src="/images/nyanners/11.png" alt=""><br><img src="/images/nyanners/12.png" alt=""><br><img src="/images/nyanners/13.png" alt=""><br><img src="/images/nyanners/14.png" alt=""><br><img src="/images/nyanners/15.png" alt=""><br><img src="/images/nyanners/16.png" alt=""><br><img src="/images/nyanners/17.png" alt=""></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2023/01/30/test/"/>
+      <url>/2023/01/30/test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="H1"><a href="#H1" class="headerlink" title="H1"></a>H1</h1><h2 id="H2"><a href="#H2" class="headerlink" title="H2"></a>H2</h2><h3 id="H3"><a href="#H3" class="headerlink" title="H3"></a>H3</h3><h4 id="H4"><a href="#H4" class="headerlink" title="H4"></a>H4</h4><h5 id="H5"><a href="#H5" class="headerlink" title="H5"></a>H5</h5><h6 id="H6"><a href="#H6" class="headerlink" title="H6"></a>H6</h6><p><u>下划线演示</u></p><p>文字<strong>加粗</strong>演示</p><p>文字<em>斜体</em>演示</p><p>文本<code>高亮</code>演示</p><p>文本<del>删除</del>线演示</p><font size = 5>5号字</font><font face="黑体">黑体</font><font color=blue>蓝色</font><table><tr><td bgcolor=MistyRose>这里的背景色是：MistyRosen，此处输入任意想输入的内容</td></tr></table><blockquote><p> Java<br>二级引用演示<br>MySQL</p><blockquote><p>外键</p><p>事务</p><p><strong>行级锁</strong>(引用内部一样可以用格式)</p></blockquote><p>….</p></blockquote><hr><hr><ul><li>Java</li><li>Python</li><li>…</li></ul><ul><li>Java</li><li>Python</li><li>…</li></ul><ul><li>Java</li><li>Python</li><li>…</li></ul><h1 id="注意后面有空格"><a href="#注意后面有空格" class="headerlink" title="注意后面有空格"></a>注意后面有空格</h1><ol><li></li><li></li><li>4.</li></ol><h1 id="本地图片"><a href="#本地图片" class="headerlink" title="本地图片"></a>本地图片</h1><p><img src="/assets/pusheencode.webp" alt="示例图片" style="zoom:50%;" /></p><h1 id="在线图片"><a href="#在线图片" class="headerlink" title="在线图片"></a>在线图片</h1><p><img src="https://cdn.jsdelivr.net/gh/fomalhaut1998/markdown_pic/img/code.png" alt="code"></p><div class="table-container"><table><thead><tr><th>项目标号</th><th>资金</th><th>备注</th></tr></thead><tbody><tr><td>1</td><td>100，000</td><td>无</td></tr><tr><td>2</td><td>200，000</td><td>无</td></tr><tr><td>3</td><td>300,600</td><td>重要</td></tr></tbody></table></div><script type="math/tex; mode=display">\Gamma(z)=\int_0^\infty t^{z-1}e^{-t}dt.</script><u>文本内容</u><emp>文本内容</emp><wavy>文本内容</wavy><del>文本内容</del><kbd>文本内容</kbd><psw>文本内容</psw><ul><li>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<span class='p red'>红色</span>、<span class='p yellow'>黄色</span>、<span class='p green'>绿色</span>、<span class='p cyan'>青色</span>、<span class='p blue'>蓝色</span>、<span class='p gray'>灰色</span>。</li><li><p>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。</p><span class='p center logo large'>Volantis</span><span class='p center small'>A Wonderful Theme for Hexo</span></li><li><p>彩色文字<br>在一段话中方便插入各种颜色的标签，包括：<p class='p red'>红色</p>、<p class='p yellow'>黄色</p>、<p class='p green'>绿色</p>、<p class='p cyan'>青色</p>、<p class='p blue'>蓝色</p>、<p class='p gray'>灰色</p>。</p></li><li>超大号文字<br>文档「开始」页面中的标题部分就是超大号文字。<p class='p center logo large'>Volantis</p><p class='p center small'>A Wonderful Theme for Hexo</p></li></ul><div class='checkbox'><input type="checkbox" />            <p>纯文本测试</p>            </div><div class='checkbox checked'><input type="checkbox" checked="checked"/>            <p>支持简单的 <a href="https://guides.github.com/features/mastering-markdown/">markdown</a> 语法</p>            </div><div class='checkbox red'><input type="checkbox" />            <p>支持自定义颜色</p>            </div><div class='checkbox green checked'><input type="checkbox" checked="checked"/>            <p>绿色 + 默认选中</p>            </div><div class='checkbox yellow checked'><input type="checkbox" checked="checked"/>            <p>黄色 + 默认选中</p>            </div><div class='checkbox cyan checked'><input type="checkbox" checked="checked"/>            <p>青色 + 默认选中</p>            </div><div class='checkbox blue checked'><input type="checkbox" checked="checked"/>            <p>蓝色 + 默认选中</p>            </div><div class='checkbox plus green checked'><input type="checkbox" checked="checked"/>            <p>增加</p>            </div><div class='checkbox minus yellow checked'><input type="checkbox" checked="checked"/>            <p>减少</p>            </div><div class='checkbox times red checked'><input type="checkbox" checked="checked"/>            <p>叉</p>            </div><div class="tip [参数，可选]"><p>文本内容</p></div><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-red"  style="width: 10%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-yellow"  style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-green"  style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-cyan"  style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-blue"  style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div><div class="progress"><div class="progress-bar-animated progress-bar progress-bar-striped bg-gray"  style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><p>进度条样式预览</p></div></div><div class="btns circle grid5">            <a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a><a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a><a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a><a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a><a class="button" href='https://xaoxuu.com' title='xaoxuu'><img src='https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png'>xaoxuu</a>          </div><div class='wow animate__zoomIn' data-wow-duration='5s' data-wow-delay='5s' data-wow-offset='100'  data-wow-iteration='10' ><div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p><code>zoomIn</code>动画效果，持续<code>5s</code>，延时<code>5s</code>，离底部<code>100</code>距离时启动，重复<code>10</code>次</p></div></div><div class='wow animate__zoomIn' data-wow-duration='5s' data-wow-delay='5s' data-wow-offset='100'  data-wow-iteration='10' ><div class="note blue icon-padding modern"><i class="note-icon fas fa-bullhorn"></i><p><code>zoomIn</code>动画效果，持续<code>5s</code>，延时<code>5s</code>，离底部<code>100</code>距离时启动，重复<code>10</code>次</p></div></div><div class='wow animate__slideInRight' data-wow-duration='5s' data-wow-delay='5s' data-wow-offset=''  data-wow-iteration='' ><div class="note orange icon-padding modern"><i class="note-icon fas fa-car"></i><p><code>slideInRight</code>动画效果，持续<code>5s</code>，延时<code>5s</code>。</p></div></div><div class='wow animate__heartBeat' data-wow-duration='' data-wow-delay='5s' data-wow-offset=''  data-wow-iteration='10' ><div class="note red icon-padding modern"><i class="note-icon fas fa-battery-half"></i><p><code>heartBeat</code>动画效果，延时<code>5s</code>，重复<code>10</code>次。</p></div></div><div class="hide-block"><button type="button" class="hide-button" style="background-color:  blue;">点我预览    </button><div class="hide-content"><p>这里有张图片：<br><img src="https://s1.vika.cn/space/2022/10/30/b35fce448bc9404a8d65c3ce1e6e46eb" alt="image (1)" style="zoom:67%;" /></p></div></div>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/01/29/hello-world/"/>
       <url>/2023/01/29/hello-world/</url>
@@ -21,7 +47,7 @@
       <link href="/2023/01/26/vpn/"/>
       <url>/2023/01/26/vpn/</url>
       
-        <content type="html"><![CDATA[<p>仅供交流学习，严禁用于商业用途，如作他用所承受的法律责任一概与作者无关</p><h3 id="小牛加速器"><a href="#小牛加速器" class="headerlink" title="小牛加速器"></a>小牛加速器</h3><p>网速非常快的梯子，之前是所有节点免费的，现在只开放四个免费节点<br>下载链接：<a href="https://www.aoxvpn.io/zhs/windows">点击下载</a></p><h3 id="雷霆加速器"><a href="#雷霆加速器" class="headerlink" title="雷霆加速器"></a>雷霆加速器</h3><p>每天可以白嫖两小时<br>下载链接：<a href="https://www.bh3zko.com/i/YDXL7J">点击下载</a></p><h3 id="VPN热点"><a href="#VPN热点" class="headerlink" title="VPN热点"></a>VPN热点</h3><p>分享虚拟网给其他设备，需要ROOT<br>下载链接：蓝奏云直链 <a href="https://i42.lanzoug.com/0126200098889324bb/2023/01/26/8ce35d1212ae3e9b7274e014becbf894.apk?st=8nDsYt0B4QEu0x6lfujaZg&e=1674739881&b=UiAO6VXWB68Ft1KGAusOVQdgDX9XZ1FlAH0ANVR9BGdUdgtg&fi=98889324&pid=123-158-26-0&up=2&mp=1&co=1">点击下载</a></p>]]></content>
+        <content type="html"><![CDATA[<p>仅供交流学习，严禁用于商业用途，如作他用所承受的法律责任一概与作者无关</p><h3 id="小牛加速器"><a href="#小牛加速器" class="headerlink" title="小牛加速器"></a>小牛加速器</h3><p>网速非常快的梯子，之前是所有节点免费的，现在只开放四个免费节点<br>下载链接：<a href="https://www.aoxvpn.io/zhs/windows">点击下载</a></p><h3 id="雷霆加速器"><a href="#雷霆加速器" class="headerlink" title="雷霆加速器"></a>雷霆加速器</h3><p>每天可以白嫖两小时<br>下载链接：<a href="https://www.434sag.com/i/YDXL7J">点击下载</a></p><h3 id="VPN热点"><a href="#VPN热点" class="headerlink" title="VPN热点"></a>VPN热点</h3><p>分享虚拟网给其他设备，需要ROOT<br>下载链接：蓝奏云直链 <a href="https://i42.lanzoug.com/0130140098889324bb/2023/01/26/8ce35d1212ae3e9b7274e014becbf894.apk?st=8fStejlkzk_BgybnpeoKrg&amp;e=1675063606&amp;b=BHZZvlLRBa1W5FCEC_bIBWghvDX8GNgE1USwBNFV8VjUFJ141&amp;fi=98889324&amp;pid=101-66-94-187&amp;up=2&amp;mp=1&amp;co=1">点击下载</a></p>]]></content>
       
       
       
@@ -53,44 +79,6 @@
     </entry>
     
     
-    
-    <entry>
-      <title>test2</title>
-      <link href="/2023/01/12/4/"/>
-      <url>/2023/01/12/4/</url>
-      
-        <content type="html"><![CDATA[<p>测试插入图片<br> <img src="/./4/a.png"></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2023/01/11/3/"/>
-      <url>/2023/01/11/3/</url>
-      
-        <content type="html"><![CDATA[<p>测试iframe插入外链bilibili视频html</p><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=592462123&bvid=BV1qq4y127um&cid=465498489&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 测试 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
   
   
     
@@ -100,7 +88,7 @@
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h3 id="网站信息"><a href="#网站信息" class="headerlink" title="网站信息"></a>网站信息</h3><p>域名：kunbaiyun.github.io<br>本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议</p><h3 id="运行时间"><a href="#运行时间" class="headerlink" title="运行时间"></a>运行时间</h3><!-- 网站运行时间的设置 --><p><span id="timeDate">载入天数…</span><br><span id="times">载入时分秒…</span></p><script>    var now = new Date();    function createtime() {        var grt= new Date("10/25/2022 13:14:21");        now.setTime(now.getTime()+250);        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}        document.getElementById("timeDate").innerHTML = "本站已运行 "+dnum+" 天 ";        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";    }setInterval("createtime()",250);</script><h3 id="技术支持"><a href="#技术支持" class="headerlink" title="技术支持"></a>技术支持</h3><p>框架：Hexo 6.3.0<br>主题:：Butterfly<br>源码仓库：Github<br>托管与部署：Github Pages<br>图床：御尊科技ZSV工作室  imgloc<br>图片：搜图神器(酷安开发者：天是一般蓝)<br>语句API：一言Hitokoto<br>音乐：Hexo-tag-aplayer  网易云音乐<br>视频：bilibili<br>开发语言：HTML5  CSS3  JavaScript  Pug  YML<br>不要问我为什么不买个二级域名，因为我没钱</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="网站信息"><a href="#网站信息" class="headerlink" title="网站信息"></a>网站信息</h3><p>域名：kunbaiyun.github.io<br>本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议</p><h3 id="运行时间"><a href="#运行时间" class="headerlink" title="运行时间"></a>运行时间</h3><!-- 网站运行时间的设置 --><p><span id="timeDate">载入天数…</span><br><span id="times">载入时分秒…</span></p><p><script>    var now = new Date();    function createtime() {        var grt= new Date("10/25/2022 13:14:21");        now.setTime(now.getTime()+250);        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}        document.getElementById("timeDate").innerHTML = "本站已运行 "+dnum+" 天 ";        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";    }setInterval("createtime()",250);</script></p><h3 id="技术支持"><a href="#技术支持" class="headerlink" title="技术支持"></a>技术支持</h3><p>框架：Hexo 6.3.0<br>主题:：Butterfly<br>源码仓库：Github<br>托管与部署：Github Pages<br>图床：御尊科技ZSV工作室  imgloc<br>图片：搜图神器(酷安开发者：天是一般蓝)<br>语句API：一言Hitokoto<br>音乐：Hexo-tag-aplayer  网易云音乐<br>视频：bilibili<br>开发语言：HTML5  CSS3  JavaScript  Pug  YML<br>不要问我为什么不买个二级域名，因为我没钱</p>]]></content>
       
     </entry>
     
@@ -118,17 +106,6 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<p id="hitokoto">获取中...</p><script src="https://v1.hitokoto.cn/?c=a&encode=js&select=%23hitokoto" defer></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450px src="//music.163.com/outchain/player?type=0&id=8042123495&auto=1&height=430"></iframe>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -140,11 +117,77 @@
     
     
     <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<p><p id="hitokoto">获取中...</p></p><script src="https://v1.hitokoto.cn/?c=a&encode=js&select=%23hitokoto" defer></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450px src="//music.163.com/outchain/player?type=0&id=8042123495&auto=1&height=430"></iframe>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章统计</title>
+      <link href="/statistics/index.html"/>
+      <url>/statistics/index.html</url>
+      
+        <content type="html"><![CDATA[<div id="posts-calendar" class="js-pjax"></div><div id="posts-chart" class="js-pjax"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/photo/a/index.html"/>
+      <url>/photo/a/index.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="/photo/a/1.png" alt=""></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图库</title>
+      <link href="/photo/doomer/index.html"/>
+      <url>/photo/doomer/index.html</url>
+      
+        <content type="html"><![CDATA[<p>这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图库</title>
+      <link href="/photo/picture/index.html"/>
+      <url>/photo/picture/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/picture/1.png","alt":""},{"url":"/photo/picture/2.png","alt":""},{"url":"/photo/picture/3.png","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
       
     </entry>
     

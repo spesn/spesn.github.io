@@ -1,0 +1,11 @@
+---
+title: 相册
+date: 2023-1-30 13:18:00
+type: "photo"
+layout: "photo"
+---
+<div class="gallery-group-main">
+{% galleryGroup 图片 picture '/photo' /photo/picture/1.png %}
+{% galleryGroup Doomer 一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年 '/photo/doomer/' /photo/doomer/a.png %}
+{% galleryGroup wahtcanido 没有痛苦死去不是更好吗 '/photo/a/' /photo/a/1.png %}
+</div>
