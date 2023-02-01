@@ -95,22 +95,33 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<p>不用看了，都是死链</p>]]></content>
+        <content type="html"><![CDATA[<p><p id="hitokoto">获取中...</p></p><script src="https://v1.hitokoto.cn/?c=a&encode=js&select=%23hitokoto" defer></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450px src="//music.163.com/outchain/player?type=0&id=8042123495&auto=1&height=430"></iframe>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[<p><p id="hitokoto">获取中...</p></p><script src="https://v1.hitokoto.cn/?c=a&encode=js&select=%23hitokoto" defer></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=450px src="//music.163.com/outchain/player?type=0&id=8042123495&auto=1&height=430"></iframe>]]></content>
+        <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=423316122&bvid=BV1W3411Y72i&cid=487730464&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<p>不用看了，都是死链</p>]]></content>
       
     </entry>
     
@@ -133,17 +144,6 @@
       <url>/statistics/index.html</url>
       
         <content type="html"><![CDATA[<div id="posts-calendar" class="js-pjax"></div><div id="posts-chart" class="js-pjax"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=423316122&bvid=BV1W3411Y72i&cid=487730464&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>]]></content>
       
     </entry>
     
@@ -173,10 +173,10 @@
     
     <entry>
       <title>图库</title>
-      <link href="/photo/doomer/index.html"/>
-      <url>/photo/doomer/index.html</url>
+      <link href="/photo/picture/index.html"/>
+      <url>/photo/picture/index.html</url>
       
-        <content type="html"><![CDATA[<p>这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
+        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/picture/1.png","alt":""},{"url":"/photo/picture/2.png","alt":""},{"url":"/photo/picture/3.png","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
       
     </entry>
     
@@ -184,10 +184,10 @@
     
     <entry>
       <title>图库</title>
-      <link href="/photo/picture/index.html"/>
-      <url>/photo/picture/index.html</url>
+      <link href="/photo/doomer/index.html"/>
+      <url>/photo/doomer/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/picture/1.png","alt":""},{"url":"/photo/picture/2.png","alt":""},{"url":"/photo/picture/3.png","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
+        <content type="html"><![CDATA[<p>这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
       
     </entry>
     
