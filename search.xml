@@ -142,28 +142,6 @@
     
     
     <entry>
-      <title>相册</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>文章统计</title>
-      <link href="/statistics/index.html"/>
-      <url>/statistics/index.html</url>
-      
-        <content type="html"><![CDATA[<div id="posts-calendar" class="js-pjax"></div><div id="posts-chart" class="js-pjax"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
@@ -175,11 +153,33 @@
     
     
     <entry>
+      <title>相册</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>文章统计</title>
+      <link href="/statistics/index.html"/>
+      <url>/statistics/index.html</url>
+      
+        <content type="html"><![CDATA[<div id="posts-calendar" class="js-pjax"></div><div id="posts-chart" class="js-pjax"></div>]]></content>
       
     </entry>
     
