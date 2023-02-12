@@ -329,3 +329,18 @@ background: url(/img/b.jpg); #深色模式手机背景图
     transform: scale(1.1);
   }
 }
+
+/* 小冰分类分类磁铁黑夜模式适配 */
+/* 一般状态 */
+[data-theme="dark"] .magnet_link_context {
+  background: #1e1e1e;
+  border-radius: 7px;
+  color: antiquewhite;
+}
+/* 鼠标悬浮状态 */
+[data-theme="dark"] .magnet_link_context:hover {
+  background: #3b3b3b;
+  border-radius: 7px;
+  color: #f2f2f2;
+}
+
