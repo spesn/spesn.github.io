@@ -174,17 +174,6 @@
     
     
     <entry>
-      <title>关于About</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<h3 id="网站信息"><a href="#网站信息" class="headerlink" title="网站信息"></a>网站信息</h3><p>域名：spesn.github.io<br>本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议</p><h3 id="运行时间"><a href="#运行时间" class="headerlink" title="运行时间"></a>运行时间</h3><!-- 网站运行时间的设置 --><p><span id="timeDate">载入天数…</span><br><span id="times">载入时分秒…</span></p><p><script>    var now = new Date();    function createtime() {        var grt= new Date("10/25/2022 13:14:21");        now.setTime(now.getTime()+250);        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}        document.getElementById("timeDate").innerHTML = "本站已运行 "+dnum+" 天 ";        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";    }setInterval("createtime()",250);</script></p><h3 id="技术支持"><a href="#技术支持" class="headerlink" title="技术支持"></a>技术支持</h3><p>框架：Hexo 6.3.0<br>主题:：Butterfly<br>源码仓库：Github<br>托管与部署：Github Pages<br>图床：御尊科技ZSV工作室  imgloc<br>图片：搜图神器(酷安开发者：天是一般蓝)<br>语句API：一言Hitokoto<br>音乐：Hexo-tag-aplayer  网易云音乐<br>视频：bilibili<br>开发语言：HTML5  CSS3  JavaScript  Pug  YML<br>不要问我为什么不买个二级域名，因为我没钱</p><h3 id="关于站长"><a href="#关于站长" class="headerlink" title="关于站长"></a>关于站长</h3><p>酷安：困了云<br>我只是一只初三废宅罢了，生活在网络上，现实里极度自卑，社恐，社交障碍，不玩游戏，虚无主义者，与外界隔绝，这个网站只是我太闲了做的，我感觉活着没有什么意义，这个世界看得越清楚，越失望，一眼看到头的未来，虚伪的政治，吸血的资本，崩塌的信仰，已经没有什么我追求的东西了</p><h4 id="捐赠"><a href="#捐赠" class="headerlink" title="捐赠"></a>捐赠</h4><p>投喂站长n(<em>≧▽≦</em>)n<br><img src="/images/a.webp" alt=""><br><details class="folding-tag" 参数（可选）><summary> 投喂 </summary>              <div class='content'>              <p><img src="/images/wechat.webp" alt=""></p>              </div>            </details></p>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -196,11 +185,11 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>关于About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<p>不用看了，都是死链<br>reward:<br>  enable: true<br>  QR_code:</p><pre><code># - img: /img/wechat.jpg#   link:#   text: wechat# - img: /img/alipay.jpg#   link:#   text: alipay</code></pre>]]></content>
+        <content type="html"><![CDATA[<h3 id="网站信息"><a href="#网站信息" class="headerlink" title="网站信息"></a>网站信息</h3><p>域名：spesn.github.io<br>本站使用Github仓库搭建，Github服务器位于美国华盛顿 西雅图，直链至Github泛播，国内访问速度较慢（Ping值：80ms-120ms)，支持HTTPS协议</p><h3 id="运行时间"><a href="#运行时间" class="headerlink" title="运行时间"></a>运行时间</h3><!-- 网站运行时间的设置 --><p><span id="timeDate">载入天数…</span><br><span id="times">载入时分秒…</span></p><p><script>    var now = new Date();    function createtime() {        var grt= new Date("10/25/2022 13:14:21");        now.setTime(now.getTime()+250);        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}        document.getElementById("timeDate").innerHTML = "本站已运行 "+dnum+" 天 ";        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";    }setInterval("createtime()",250);</script></p><h3 id="技术支持"><a href="#技术支持" class="headerlink" title="技术支持"></a>技术支持</h3><p>框架：Hexo 6.3.0<br>主题:：Butterfly<br>源码仓库：Github<br>托管与部署：Github Pages<br>图床：御尊科技ZSV工作室  imgloc<br>图片：搜图神器(酷安开发者：天是一般蓝)<br>语句API：一言Hitokoto<br>音乐：Hexo-tag-aplayer  网易云音乐<br>视频：bilibili<br>开发语言：HTML5  CSS3  JavaScript  Pug  YML<br>不要问我为什么不买个二级域名，因为我没钱</p><h3 id="关于站长"><a href="#关于站长" class="headerlink" title="关于站长"></a>关于站长</h3><p>酷安：困了云<br>我只是一只初三废宅罢了，生活在网络上，现实里极度自卑，社恐，社交障碍，不玩游戏，虚无主义者，与外界隔绝，这个网站只是我太闲了做的，我感觉活着没有什么意义，这个世界看得越清楚，越失望，一眼看到头的未来，虚伪的政治，吸血的资本，崩塌的信仰，已经没有什么我追求的东西了</p><h4 id="捐赠"><a href="#捐赠" class="headerlink" title="捐赠"></a>捐赠</h4><p>投喂站长n(<em>≧▽≦</em>)n<br><img src="/images/a.webp" alt=""><br><details class="folding-tag" 参数（可选）><summary> 投喂 </summary>              <div class='content'>              <p><img src="/images/wechat.webp" alt=""></p>              </div>            </details></p>]]></content>
       
     </entry>
     
@@ -218,22 +207,22 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-lbuCfkDb" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<p>不用看了，都是死链<br>reward:<br>  enable: true<br>  QR_code:</p><pre><code># - img: /img/wechat.jpg#   link:#   text: wechat# - img: /img/alipay.jpg#   link:#   text: alipay</code></pre>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>相册</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-doWyJIEW" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
       
     </entry>
     
@@ -245,6 +234,17 @@
       <url>/statistics/index.html</url>
       
         <content type="html"><![CDATA[<div id="posts-calendar" class="js-pjax"></div><div id="posts-chart" class="js-pjax"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -274,10 +274,10 @@
     
     <entry>
       <title>图库</title>
-      <link href="/photo/doomer/index.html"/>
-      <url>/photo/doomer/index.html</url>
+      <link href="/photo/picture/index.html"/>
+      <url>/photo/picture/index.html</url>
       
-        <content type="html"><![CDATA[<p>-这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""},{"url":"/photo/doomer/1.jpg","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
+        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/picture/1.png","alt":""},{"url":"/photo/picture/2.png","alt":""},{"url":"/photo/picture/3.png","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
       
     </entry>
     
@@ -285,10 +285,10 @@
     
     <entry>
       <title>图库</title>
-      <link href="/photo/picture/index.html"/>
-      <url>/photo/picture/index.html</url>
+      <link href="/photo/doomer/index.html"/>
+      <url>/photo/doomer/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/picture/1.png","alt":""},{"url":"/photo/picture/2.png","alt":""},{"url":"/photo/picture/3.png","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
+        <content type="html"><![CDATA[<p>-这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""},{"url":"/photo/doomer/1.jpg","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
       
     </entry>
     
