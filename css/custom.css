@@ -117,9 +117,6 @@
 }
 
 /* 页脚与头图透明 */
-#footer {
-  background: transparent !important;
-}
 
 /* 白天模式遮罩透明 */
 #footer::before {
@@ -152,6 +149,16 @@
   backdrop-filter: var(--backdrop-filter);
   border-radius: 20px;
   border: var(--border-style);
+}
+#footer-wrap {
+  background: rgba(35, 35, 35, 0.50);
+  backdrop-filter: var(--backdrop-filter);
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border: var(--border-style);
+}
+[data-theme="dark"] #footer-wrap {
+  background: rgba(25, 25, 25, 0.50);
 }
 
 /* 首页侧栏卡片 */
@@ -394,5 +401,4 @@ background: url(/img/b.jpg); #深色模式手机背景图
     -ms-transition: none!important;
     -o-transition: none!important;
 }
-
 
