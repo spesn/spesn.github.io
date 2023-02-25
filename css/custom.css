@@ -116,7 +116,10 @@
   }
 }
 
-/* 页脚与头图透明 */
+/*页脚透明*/
+#footer {
+  background: transparent !important;
+}
 
 /* 白天模式遮罩透明 */
 #footer::before {
@@ -134,11 +137,10 @@
   background: transparent !important;
 }
 
-
 /*界面模糊*/
 :root {
   --trans-light: rgba(255, 255, 255, 0.75);
-  --trans-dark: rgba(25, 25, 25, 0.85);
+  --trans-dark: rgba(0, 0, 0, 1.00);
   --border-style: 1px solid rgb(67, 67, 67);
   --backdrop-filter: blur(5px) saturate(150%);
 }
@@ -158,7 +160,7 @@
   border: var(--border-style);
 }
 [data-theme="dark"] #footer-wrap {
-  background: rgba(25, 25, 25, 0.50);
+  background: rgba(0, 0, 0, 1.00);
 }
 
 /* 首页侧栏卡片 */
@@ -181,8 +183,21 @@ div#archive {
 
 /* 导航栏 */
 #page-header.nav-fixed #nav {
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.70);
   backdrop-filter: var(--backdrop-filter);
+}
+
+[data-theme="dark"] #page-header.nav-fixed #nav {
+  background: rgba(0, 0, 0, 0.7) !important;
+}
+
+/* 夜间模式遮罩 */
+[data-theme="dark"] #recent-posts > .recent-post-item,
+[data-theme="dark"] #aside-content .card-widget,
+[data-theme="dark"] div#post,
+[data-theme="dark"] div#archive,
+[data-theme="dark"] div#page {
+  background: var(--trans-dark);
 }
 
 [data-theme="dark"] #page-header.nav-fixed #nav {
@@ -367,9 +382,7 @@ background: url(/img/b.jpg); #深色模式手机背景图
   left: -125px;
 }
 
-
 /* 标签 */
-
 #aside-content .card-tag-cloud a {
     border: 1px solid;
     line-height: 1.5;
@@ -386,6 +399,7 @@ background: url(/img/b.jpg); #深色模式手机背景图
     font-size: 1.2rem;
     margin: 5px;
 }
+
 /*导航栏常驻*/
 .nav-fixed #nav{
     transform: translateY(58px)!important;
@@ -401,4 +415,5 @@ background: url(/img/b.jpg); #深色模式手机背景图
     -ms-transition: none!important;
     -o-transition: none!important;
 }
+
 
