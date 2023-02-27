@@ -4462,9 +4462,6 @@ h1.page-title + .tag-cloud-list {
   -ms-transform: translate3d(-100%, 0, 0);
   transform: translate3d(-100%, 0, 0);
 }
-#sidebar #sidebar-menus > .avatar-img {
-  margin: 20px auto;
-}
 #sidebar #sidebar-menus .sidebar-site-data {
   padding: 0 10px;
 }
