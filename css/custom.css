@@ -16,6 +16,9 @@
 [data-theme="dark"] #post-info {
   animation: light_5px 10s linear infinite;
 }
+[data-theme="light"] #universe {
+  display: none !important;
+}
 /* 关键帧描述 */
 @keyframes light_15px {
   0% {
@@ -416,4 +419,12 @@ background: url(/img/b.jpg); #深色模式手机背景图
     -o-transition: none!important;
 }
 
+#sidebar #sidebar-menus {
+  background: rgba(275, 275, 275, 0.55);
+  border-radius: 15px;
+}
 
+/* 手机菜单栏渐变色适配暗黑模式 */
+[data-theme="dark"] #sidebar #sidebar-menus {
+  background: rgba(0, 0, 0, 1.00);
+}
