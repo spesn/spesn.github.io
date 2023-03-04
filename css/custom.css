@@ -424,7 +424,7 @@ background: url(/img/b.jpg); #深色模式手机背景图
   border-radius: 15px;
 }
 
-/* 手机菜单栏渐变色适配暗黑模式 */
+/* 手机菜单栏适配暗黑模式 */
 [data-theme="dark"] #sidebar #sidebar-menus {
   background: rgba(0, 0, 0, 1.00);
 }
