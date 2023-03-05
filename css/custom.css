@@ -142,7 +142,7 @@
 
 /*界面模糊*/
 :root {
-  --trans-light: rgba(255, 255, 255, 0.75);
+  --trans-light: rgba(255, 255, 255, 0.95);
   --trans-dark: rgba(0, 0, 0, 1.00);
   --border-style: 1px solid rgb(67, 67, 67);
   --backdrop-filter: blur(5px) saturate(150%);
@@ -165,6 +165,7 @@
 [data-theme="dark"] #footer-wrap {
   background: rgba(0, 0, 0, 1.00);
 }
+
 
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
@@ -242,7 +243,6 @@ div#archive {
   background: rgba(25, 25, 25, 0.9) !important;
   color: #ffffff;
 }
-
 /*背景*/
 #web_bg {
   background: url(/img/apc.jpg); #浅色模式背景图
@@ -428,3 +428,92 @@ background: url(/img/b.jpg); #深色模式手机背景图
 [data-theme="dark"] #sidebar #sidebar-menus {
   background: rgba(0, 0, 0, 1.00);
 }
+
+/* twikoo评论美化 */
+/* 自定义twikoo评论输入框高度 */
+#twikoo .el-textarea textarea {
+  min-height: 120px !important;
+  background-size: 90px;
+}
+
+/* 自定义表情优化 */
+#twikoo .OwO-body {
+  max-width: 100% !important;
+}
+/* 选择某个框 #twikoo .OwO .OwO-body .OwO-items:nth-child(1) */
+#twikoo .OwO .OwO-body .OwO-items {
+  max-height: 250px !important;
+}
+
+.OwO .OwO-body .OwO-items-image .OwO-item {
+  max-width: calc(9% - 10px);
+  box-sizing: content-box;
+}
+.OwO .OwO-body .OwO-items-image .OwO-item[title|="Heybox"],
+.OwO .OwO-body .OwO-items-image .OwO-item[title|="Tieba"],
+.OwO .OwO-body .OwO-items-show .OwO-item[title*="bilibili"] {
+  max-width: calc(7% - 10px) !important;
+  box-sizing: content-box;
+}
+
+#twikoo .OwO-items li img {
+  width: 100% !important;
+}
+
+.tk-comment .vemoji[alt|="Menhera"],
+.tk-comment .tk-owo-emotion[alt*="Menhera"],
+.tk-comment .vemoji[alt|="Snow"],
+.tk-comment .tk-owo-emotion[alt*="Snow"],
+.tk-comment .vemoji[alt|="Sweetie"],
+.tk-comment .tk-owo-emotion[alt*="Sweetie"],
+.tk-comment .vemoji[alt|="Tsuri"],
+.tk-comment .tk-owo-emotion[alt*="Tsuri"],
+.tk-comment .vemoji[alt|="Yurui"],
+.tk-comment .tk-owo-emotion[alt*="Yurui"] {
+  max-width: 120px !important;
+  max-height: 120px !important;
+  width: 120px;
+  margin: 8px 1px;
+  display: block !important;
+}
+
+/* 手机端适配 */
+@media screen and (max-width: 768px) {
+  .tk-comment .vemoji[alt|="Menhera"],
+  .tk-comment .tk-owo-emotion[alt*="Menhera"],
+  .tk-comment .vemoji[alt|="Snow"],
+  .tk-comment .tk-owo-emotion[alt*="Snow"],
+  .tk-comment .vemoji[alt|="Sweetie"],
+  .tk-comment .tk-owo-emotion[alt*="Sweetie"],
+  .tk-comment .vemoji[alt|="Tsuri"],
+  .tk-comment .tk-owo-emotion[alt*="Tsuri"],
+  .tk-comment .vemoji[alt|="Yurui"],
+  .tk-comment .tk-owo-emotion[alt*="Yurui"] {
+    max-width: calc(100% - 30px) !important;
+    max-height: calc(100% - 30px) !important;
+  }
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Menhera"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Snow"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Sweetie"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Tsuri"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Yurui"] {
+    max-width: calc(33% - 10px);
+    box-sizing: border-box;
+  }
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Heybox"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="bilibili"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Tieba"],
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="QQ"] {
+    max-width: calc(18% - 10px) !important;
+    box-sizing: content-box;
+  }
+}
+
+/* 右下角闭眼 */
+.el-textarea__inner {
+  background-image: url(https://tuchuang.voooe.cn/images/2023/01/02/open.webp) !important;
+}
+.el-textarea__inner:focus {
+  background-image: url(https://tuchuang.voooe.cn/images/2023/01/02/close.webp) !important;
+}
+
