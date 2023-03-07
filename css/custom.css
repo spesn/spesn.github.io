@@ -176,13 +176,19 @@
 }
 
 /* 文章页、归档页、普通页面 */
-div#post,
-div#page,
 div#archive {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
   border: var(--border-style);
   border-radius: 25px;
+}
+div#post,
+div#page {
+  background: var(--trans-light);
+  backdrop-filter: none
+  border-style: none
+  border: var(--border-style);
+  border-radius: 0px;
 }
 
 /* 导航栏 */
@@ -500,10 +506,8 @@ background: url(/img/b.jpg); #深色模式手机背景图
     max-width: calc(33% - 10px);
     box-sizing: border-box;
   }
-  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Heybox"],
   .OwO .OwO-body .OwO-items-image .OwO-item[title*="bilibili"],
-  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Tieba"],
-  .OwO .OwO-body .OwO-items-image .OwO-item[title*="QQ"] {
+  .OwO .OwO-body .OwO-items-image .OwO-item[title*="Tieba"] {
     max-width: calc(18% - 10px) !important;
     box-sizing: content-box;
   }
