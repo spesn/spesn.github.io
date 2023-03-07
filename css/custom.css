@@ -156,11 +156,7 @@
   border: var(--border-style);
 }
 #footer-wrap {
-  background: rgba(35, 35, 35, 0.50);
-  backdrop-filter: var(--backdrop-filter);
-  border-top-left-radius: 25px;
-  border-top-right-radius: 25px;
-  border: var(--border-style);
+  background: rgba(10, 10, 10, 0.95);
 }
 [data-theme="dark"] #footer-wrap {
   background: rgba(0, 0, 0, 1.00);
@@ -392,22 +388,6 @@ background: url(/img/b.jpg); #深色模式手机背景图
 }
 
 /* 标签 */
-#aside-content .card-tag-cloud a {
-    border: 1px solid;
-    line-height: 1.5;
-    border-radius: 6px;
-    margin: 3px;
-    padding: 0 5px;
-}
-
-.tag-cloud-list a {
-    border: 1px solid;
-    line-height: 1.5;
-    border-radius: 6px;
-    padding: 5px 15px;
-    font-size: 1.2rem;
-    margin: 5px;
-}
 
 /*导航栏常驻*/
 .nav-fixed #nav{
