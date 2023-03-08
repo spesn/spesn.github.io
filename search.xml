@@ -270,22 +270,22 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/daylight/index.html"/>
+      <url>/daylight/index.html</url>
       
-        <content type="html"><![CDATA[<p>不用看了，都是死链</p><iframe src="https://m.sohu.com/news" width="100%" frameborder="0" scrolling="auto" height="500px"></iframe>]]></content>
+        <content type="html"><![CDATA[<iframe src="https://news.icodeq.com/" width="100%" frameborder="0" scrolling="auto" height="2200px"></iframe>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/daylight/index.html"/>
-      <url>/daylight/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<iframe src="https://news.icodeq.com/" width="100%" frameborder="0" scrolling="auto" height="2200px"></iframe>]]></content>
+        <content type="html"><![CDATA[<p>不用看了，都是死链</p><iframe src="https://m.sohu.com/news" width="100%" frameborder="0" scrolling="auto" height="500px"></iframe>]]></content>
       
     </entry>
     
@@ -314,11 +314,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>相册</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -329,18 +329,18 @@
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-lPNEWztF" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-rEDTYTHT" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>相册</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/picture/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">图片</div>  <p>picture</p>  <a href='/photo/picture/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/doomer/a.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">Doomer</div>  <p>一种后朋克文化，虚无主义，源于苏联解体后的俄罗斯青年</p>  <a href='/photo/doomer/'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='/photo/a/1.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">wahtcanido</div>  <p>没有痛苦死去不是更好吗</p>  <a href='/photo/a/'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
