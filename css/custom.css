@@ -152,8 +152,6 @@
 #recent-posts > .recent-post-item {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
-  border-radius: 20px;
-  border: var(--border-style);
 }
 #footer-wrap {
   background: rgba(10, 10, 10, 0.95);
@@ -167,24 +165,14 @@
 #aside-content .card-widget {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
-  border-radius: 18px;
-  border: var(--border-style);
 }
 
 /* 文章页、归档页、普通页面 */
+div#post,
+div#page,
 div#archive {
   background: var(--trans-light);
   backdrop-filter: var(--backdrop-filter);
-  border: var(--border-style);
-  border-radius: 25px;
-}
-div#post,
-div#page {
-  background: var(--trans-light);
-  backdrop-filter: none
-  border-style: none
-  border: var(--border-style);
-  border-radius: 0px;
 }
 
 /* 导航栏 */

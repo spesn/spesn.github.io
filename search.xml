@@ -270,22 +270,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/daylight/index.html"/>
-      <url>/daylight/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<iframe src="https://news.icodeq.com/" width="100%" frameborder="0" scrolling="auto" height="2200px"></iframe>]]></content>
+        <content type="html"><![CDATA[<p>不用看了，都是死链</p><iframe src="https://m.sohu.com/news" width="100%" frameborder="0" scrolling="auto" height="500px"></iframe>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title></title>
+      <link href="/daylight/index.html"/>
+      <url>/daylight/index.html</url>
       
-        <content type="html"><![CDATA[<p>不用看了，都是死链</p><iframe src="https://m.sohu.com/news" width="100%" frameborder="0" scrolling="auto" height="500px"></iframe>]]></content>
+        <content type="html"><![CDATA[<iframe src="https://news.icodeq.com/" width="100%" frameborder="0" scrolling="auto" height="2200px"></iframe>]]></content>
       
     </entry>
     
@@ -314,11 +314,22 @@
     
     
     <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-xAgyEffA" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-lPNEWztF" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
       
     </entry>
     
@@ -336,11 +347,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/photo/a/index.html"/>
+      <url>/photo/a/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><img src="/photo/a/1.png" alt=""></p>]]></content>
       
     </entry>
     
@@ -363,17 +374,6 @@
       <url>/photo/picture/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/picture/1.png","alt":""},{"url":"/photo/picture/2.png","alt":""},{"url":"/photo/picture/3.png","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/photo/a/index.html"/>
-      <url>/photo/a/index.html</url>
-      
-        <content type="html"><![CDATA[<p><img src="/photo/a/1.png" alt=""></p>]]></content>
       
     </entry>
     
