@@ -128,9 +128,7 @@
 #footer::before {
   background: transparent !important;
 }
-#page-header::before {
-  background: transparent !important;
-}
+
 
 /* 夜间模式遮罩透明 */
 [data-theme="dark"] #footer::before {
@@ -142,7 +140,7 @@
 
 /*界面模糊*/
 :root {
-  --trans-light: rgba(255, 255, 255, 0.95);
+  --trans-light: rgba(255, 255, 255, 0.85);
   --trans-dark: rgba(0, 0, 0, 1.00);
   --border-style: 1px solid rgb(67, 67, 67);
   --backdrop-filter: blur(5px) saturate(150%);
@@ -154,7 +152,7 @@
   backdrop-filter: var(--backdrop-filter);
 }
 #footer-wrap {
-  background: rgba(10, 10, 10, 0.95);
+  background: #232323
 }
 [data-theme="dark"] #footer-wrap {
   background: rgba(0, 0, 0, 1.00);
