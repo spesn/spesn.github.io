@@ -47,6 +47,8 @@
             
             <tag> 技术教程 </tag>
             
+            <tag> termux </tag>
+            
         </tags>
       
     </entry>
@@ -85,6 +87,8 @@
             
             <tag> 资源分享 </tag>
             
+            <tag> Windows </tag>
+            
         </tags>
       
     </entry>
@@ -105,6 +109,10 @@
             <tag> 资源分享 </tag>
             
             <tag> 技术教程 </tag>
+            
+            <tag> Windows </tag>
+            
+            <tag> 刷机 </tag>
             
         </tags>
       
@@ -248,9 +256,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>番剧</title>
+      <link href="/bilibili/index.html"/>
+      <url>/bilibili/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -259,9 +267,9 @@
     
     
     <entry>
-      <title>番剧</title>
-      <link href="/bilibili/index.html"/>
-      <url>/bilibili/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -303,17 +311,6 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-bVXMSVYa" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>电影</title>
       <link href="/movies/index.html"/>
       <url>/movies/index.html</url>
@@ -325,11 +322,11 @@
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<ul><li><small><p id="hitokoto">获取中...</p></small><!-- 一言API --><!-- 现代写法，推荐 --><!-- 兼容低版本浏览器 (包括 IE)，可移除 --><script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script><script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script><!--End--><script>fetch('https://v1.hitokoto.cn/?c=a')  .then(function (res){    return res.json();  })  .then(function (data) {    var hitokoto = document.getElementById('hitokoto');    hitokoto.innerText = data.hitokoto + '⁣⁣⁣⁣⁣⁣⁣⁣——【' + data.from + '】';  })  .catch(function (err) {    console.error(err);  })</script></li></ul>    <div id="aplayer-JMWxJFGe" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="8042123495" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="true" data-mutex="false" data-listmaxheight="400px" data-preload="none" data-theme="#ad7a86"    ></div><blockquote><p>要说我最喜欢的音乐那就是Seredris的Daylight，没有之一</p></blockquote>]]></content>
       
     </entry>
     
@@ -347,11 +344,11 @@
     
     
     <entry>
-      <title>图库</title>
-      <link href="/photo/doomer/index.html"/>
-      <url>/photo/doomer/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<p>-这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""},{"url":"/photo/doomer/1.jpg","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -363,6 +360,17 @@
       <url>/photo/a/index.html</url>
       
         <content type="html"><![CDATA[<p><img src="/photo/a/1.png" alt=""></p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图库</title>
+      <link href="/photo/doomer/index.html"/>
+      <url>/photo/doomer/index.html</url>
+      
+        <content type="html"><![CDATA[<p>-这个世界会好吗，也许没人知道<br><div class="gallery">    <div class="fj-gallery " data-rowHeight="220" data-limit="10">    <span class="gallery-data">[{"url":"/photo/doomer/2.jpg","alt":""},{"url":"/photo/doomer/w.png","alt":""},{"url":"/photo/doomer/a.png","alt":""},{"url":"/photo/doomer/b.webp","alt":""},{"url":"/photo/doomer/1.jpg","alt":""}]</span>    </div>    <button class="gallery-load-more"><span>加载更多</span><i class="fa-solid fa-arrow-down"></i></button>    </div></p>]]></content>
       
     </entry>
     
